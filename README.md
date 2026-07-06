@@ -1,10 +1,6 @@
 # leetcode_solutions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ABflames&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ABflames'&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ABflames)
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
